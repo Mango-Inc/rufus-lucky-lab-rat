@@ -1,6 +1,6 @@
 ## Rufus, The Lucky Lab Rat
 
-Rufus is a state-of-the-art AI lab rat and lunch bell software. See Medium post [todo] for details.
+Rufus is a state-of-the-art AI lab rat and lunch bell software. See [Medium post](https://medium.com/@nicdahlquist/lucky-lab-rat-how-ai-saved-our-company-22bf1d5ebbb4) for details.
 
 For Mango employees, see [our internal version](https://github.com/Mango-Inc/rufus).
 
